@@ -10,9 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51e83ac8-f82c-496f-bdd3-b5a1168a0239" name="Changes" comment="Initial Commit Part 2">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Medal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Medal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MedalNamesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MedalNamesTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +57,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666555516212</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit Part 2">
+      <created>1685771249812</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685771249812</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
