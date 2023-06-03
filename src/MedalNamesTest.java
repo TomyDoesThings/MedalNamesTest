@@ -210,8 +210,10 @@ public class MedalNamesTest
 
             /*
                Literally this whole switch-case is easter eggs. lol
-               Also, there is so much language here that in a way, this is to maybe repulse people from looking at the code?
+               Also, there was so much language here that in a way, this was to maybe repulse people from looking at the code, or maybe for them to laugh when they type the random curse words?
                lol
+
+               To make the code clean for everybody to look at though, I removed them.
              */
         }
 
